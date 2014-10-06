@@ -1,9 +1,10 @@
 <?php
 /*
 Plugin Name: The Joshua Project, Nation Info
-Description: Creates a widget for rendering nation data from the <a href="http://joshuaproject.net/">Joshua Project</a>.
+Description: Creates a widget and shortcode for rendering nation data from the <a href="http://joshuaproject.net/">Joshua Project</a>.
 Author: Topher
 Author URI: http://topher1kenobe.com
+Text Domain: jp-nation-info
 Version: 1.0
 License: GPL
 */
