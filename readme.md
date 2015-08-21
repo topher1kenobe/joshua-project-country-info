@@ -6,7 +6,7 @@ Allows the site owner to render information from The Joshua Project about a spec
 **Contributors:** [topher1kenobe](http://profiles.wordpress.org/topher1kenobe)  
 **Tags:** [widget](http://wordpress.org/plugins/tags/widget)  
 **Requires at least:** 3.0  
-**Tested up to:** 4.0  
+**Tested up to:** 4.3  
 **Stable tag:** 1.0  
 **License:** [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)  
 **Donate link:** http://joshuaproject.net/donate  
